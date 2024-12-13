@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in Data Analystis
+- 👀 I’m interested in Data Analystics
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Visualization Project
 - 📫 How to reach me shubhamofficial1111@gmail.com
